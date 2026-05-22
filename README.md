@@ -5,7 +5,7 @@ This project uses clustering techniques to segment customers based on purchasing
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Jupyter Notebook
+- Visual Studio Code
 
 ## 📊 Key Steps Performed
 - Data cleaning and preprocessing
@@ -20,9 +20,9 @@ This project uses clustering techniques to segment customers based on purchasing
 - Helped define marketing strategies for different groups
 
 ## 📁 Files Included
-- customer_data.csv
-- segmentation_analysis.ipynb / .py
-- output_visualizations.png
+- customers.csv
+- analysis.py
+- customers_with_clusters.csv
 
 ## 🚀 Business Impact
 This analysis helps businesses improve customer targeting, increase retention, and optimize marketing campaigns.
